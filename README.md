@@ -56,8 +56,8 @@ ipl-powerbi-dashboard/
 │   ├── ipl_matches_data_new.csv
 │   ├── players-data-updated.csv
 │   └── teams_data.csv
-└── screenshots/                   # Dashboard preview images
-    └── dashboard.png
+└── images/                   # Dashboard preview images
+    └── ipl_dashboard.png
 ```
 
 ## ▶️ How to View
