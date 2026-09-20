@@ -37,7 +37,7 @@ The dashboard is built on 4 connected tables, modeled in Power BI:
 
 ## 🖼️ Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](images/ipl_dashboard.png)
 
 ## 🛠️ Tools & Skills Used
 
