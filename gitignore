@@ -1,0 +1,8 @@
+# Power BI temp/lock files
+*.pbix.lock
+~$*.pbix
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
